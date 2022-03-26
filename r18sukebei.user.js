@@ -1,7 +1,10 @@
 // ==UserScript==
 // @name         r18sukebei
 // @namespace    https://github.com/Runisco
-// @version      1
+// @version      1.0
+// @updateURL https://github.com/Runisco/r18sukebei/raw/main/r18sukebei.user.js
+// @downloadURL https://github.com/Runisco/r18sukebei/raw/main/r18sukebei.user.js
+// @supportURL https://github.com/Runisco/r18sukebei/issues
 // @description  Links r18 with sukebei
 // @author       Runisco
 // @match        https://www.r18.com*
