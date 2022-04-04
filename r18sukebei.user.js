@@ -22,7 +22,7 @@
 
 var sukebeiSearch = "https://sukebei.nyaa.si/?f=0&c=0_0&q=";
 
-var debug = true;
+var debug = false;
 
 waitForKeyElements (".cart-wrapper", trailerWindow);
 waitForKeyElements ("#root", regularPage);
